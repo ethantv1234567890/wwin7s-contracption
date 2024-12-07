@@ -4,7 +4,7 @@ local gridHeight = 35
 local partSize = 0.5
 
 -- Origin point for the grid
-local origin = Vector3.new(0, 0, 0)
+local origin = Vector3.new(82, 7, 202)
 
 -- Function to create the grid
 local function createGrid()
